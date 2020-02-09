@@ -10,6 +10,6 @@ You can download [boilr from here](https://github.com/tmrts/boilr).
 After to install, you can download this template and use it later.
 
 ```bash
-boilr template download https://github.com/sevir/boilerplate-dotdesktop dotdesktop
+boilr template download sevir/boilerplate-dotdesktop dotdesktop
 boilr tempalte use dotdesktop ~/local/share/applications
 ```
