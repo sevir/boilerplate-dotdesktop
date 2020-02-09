@@ -1,0 +1,11 @@
+{
+  "Name": "DotDesktop App",
+  "IconPath": "/app/name/icon.png",
+  "ExecCommand": "/~bin/app",
+  "Comment": "",
+  "Categories": "",
+  "Terminal": [
+    "false",
+    "true"
+  ]
+}

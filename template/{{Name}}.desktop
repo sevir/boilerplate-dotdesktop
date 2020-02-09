@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name={{Name}}
+Icon={{IconPath}}
+Exec={{ExecCommand}}
+Comment={{Comment}}
+Categories={{Categories}}
+Terminal={{Terminal}}
